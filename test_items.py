@@ -1,5 +1,8 @@
 import time
-
+'''
+По умолчанию установлен firefox, так что лучше использовать для запуска команду:
+pytest --browser_name=chrome --language=fr test_items.py
+'''
 link = 'http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/'
 
 
